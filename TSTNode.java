@@ -1,4 +1,4 @@
-// Mohamed Yasser Anwar Mahmoud AlKayd
+// Mohamed Mahmoud
 // Recursion Tertiary Search Tree Program - Tertiary Search Tree Node
 
 // - Start of the Program -
